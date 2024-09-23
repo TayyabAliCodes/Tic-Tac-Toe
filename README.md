@@ -4,9 +4,9 @@ Tic Tac Toe is a classic game built as a web application, demonstrating my skill
 
 Features:
 
-Interactive Gameplay: Users can play Tic Tac Toe against each other in real time.
+Users can play Tic Tac Toe against each other in real time.
 
-Responsive Design: The game is designed to work seamlessly on both desktop and mobile devices.
+The game is designed to work seamlessly on both desktop and mobile devices.
 
-Simple User Interface: Intuitive layout for easy navigation and game play.
+Intuitive layout for easy navigation and game play.
 
